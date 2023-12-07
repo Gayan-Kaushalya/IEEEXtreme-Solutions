@@ -1,4 +1,4 @@
-- [Caesar Redux] (#Caesar-Redux)
+- [Caesar Redux](#Caesar-Redux)
 
 
 # Caesar Redux
