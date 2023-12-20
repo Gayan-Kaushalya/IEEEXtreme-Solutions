@@ -6,4 +6,5 @@
 ![Alt text](Images/Xtreme%20Winners%201.png)
 ![Alt text](Images/Xtreme%20Winners%202.png)
 
-[Answer (Python - 68.97%)](Codes/xtremewinners.py)  [Answer (Ruby - 93.02%)](Codes/xtremewinners.rb)
+[Answer (Python - 68.97%)](Codes/xtremewinners.py) <br>
+[Answer (Ruby - 93.02%)](Codes/xtremewinners.rb)
