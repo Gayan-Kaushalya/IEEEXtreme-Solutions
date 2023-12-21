@@ -1,6 +1,6 @@
 - [Pizza Cutter](#Pizza-Cutter)
 - [Gaius Letters](#Gaius-Letters)
-
+- [Scheduler](#Scheduler)
 
 # Pizza Cutter
 
@@ -16,3 +16,11 @@
 ![Alt text](Images/Gaius%20Letters.png)
 
 [Answer](Codes/gaius.py)
+
+
+# Scheduler
+
+![Alt text](Images/Scheduler%201.png)
+![Alt text](Images/Scheduler%202.png)
+
+[Answer](Codes/scheduler.py)
