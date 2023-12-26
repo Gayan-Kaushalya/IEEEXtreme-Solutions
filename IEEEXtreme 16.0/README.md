@@ -1,6 +1,7 @@
 - [Pizza Cutter](#Pizza-Cutter)
 - [Gaius Letters](#Gaius-Letters)
 - [Scheduler](#Scheduler)
+- [My Treat](#My-Treat)
 
 # Pizza Cutter
 
@@ -24,3 +25,11 @@
 ![Alt text](Images/Scheduler%202.png)
 
 [Answer](Codes/scheduler.py)
+
+
+# My Treat
+
+![Alt text](Images/My%20Treat%201.png)
+![Alt text](Images/My%20Treat%202.png)
+
+[Answer](Codes/mytreat.py)
