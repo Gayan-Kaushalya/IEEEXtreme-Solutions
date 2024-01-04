@@ -1,5 +1,6 @@
 - [Ave Caesar!](#Ave-Caesar!)
 - [Xtreme Rappers](#Xtreme-Rappers)
+- [Infinite String](#Infinite-String)
 
 
 # Ave Caesar!
@@ -13,6 +14,14 @@
 # Xtreme Rappers
 
 ![Alt text](Images/Xtreme%20Rappers%201.png)
-![Alt text](Images/Xtreme%20Rappers%201.png)
+![Alt text](Images/Xtreme%20Rappers%202.png)
 
 [Answer](Codes/xtremerappers.py)
+
+
+# Infinite String
+
+![Alt text](Images/Infinite%20String%201.png)
+![Alt text](Images/Infinite%20String%202.png)
+
+[Answer](Codes/infinitestring.py)
