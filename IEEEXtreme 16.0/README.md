@@ -3,6 +3,8 @@
 - [Scheduler](#Scheduler)
 - [My Treat](#My-Treat)
 
+<hr>
+
 # Pizza Cutter
 
 ![Alt text](Images/Pizza%20Cutter%201.png)
@@ -11,7 +13,7 @@
 
 [Answer](Codes/pizza.py)
 
-<br/>
+<br/><hr>
 
 # Gaius Letters
 
@@ -19,7 +21,7 @@
 
 [Answer](Codes/gaius.py)
 
-<br/>
+<br/><hr>
 
 # Scheduler
 
@@ -28,7 +30,7 @@
 
 [Answer](Codes/scheduler.py)
 
-<br/>
+<br/><hr>
 
 # My Treat
 
@@ -36,3 +38,5 @@
 ![Alt text](Images/My%20Treat%202.png)
 
 [Answer](Codes/mytreat.py)
+
+<br/><hr>

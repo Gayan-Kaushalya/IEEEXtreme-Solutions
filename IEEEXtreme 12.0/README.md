@@ -1,5 +1,6 @@
 - [Magic Spell](#Magic-Spell)
 
+<hr>
 
 # Magic Spell
 
@@ -7,4 +8,4 @@
 
 [Answer](Codes/magicspell.py)
 
-<br/>
+<br/><hr>

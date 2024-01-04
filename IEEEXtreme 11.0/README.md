@@ -1,6 +1,7 @@
 - [Blackgate Penitentiary](#Blackgate-Penitentiary)
 - [Running Up Stairs](#Running-Up-Stairs)
 
+<hr>
 
 # Blackgate Penitentiary
 
@@ -9,7 +10,7 @@
 
 [Answer](Codes/blackgate.py)
 
-<br/>
+<br/><hr>
 
 # Running Up Stairs
 
@@ -18,4 +19,4 @@
 
 [Answer](Codes/stairs.py)
 
-<br/>
+<br/><hr>

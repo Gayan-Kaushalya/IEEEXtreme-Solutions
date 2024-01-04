@@ -2,6 +2,7 @@
 - [Xtreme Rappers](#Xtreme-Rappers)
 - [Infinite String](#Infinite-String)
 
+<hr>
 
 # Ave Caesar!
 
@@ -10,7 +11,7 @@
 
 [Answer](Codes/avecaesar.py)
 
-<br/>
+<br/><hr>
 
 # Xtreme Rappers
 
@@ -19,7 +20,7 @@
 
 [Answer](Codes/xtremerappers.py)
 
-<br/>
+<br/><hr>
 
 # Infinite String
 
@@ -28,4 +29,4 @@
 
 [Answer](Codes/infinitestring.py)
 
-<br/>
+<br/><hr>

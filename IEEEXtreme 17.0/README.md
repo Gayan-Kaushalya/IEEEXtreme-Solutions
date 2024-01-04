@@ -1,6 +1,7 @@
 - [Caesar Redux](#Caesar-Redux)
 - [Restaurant Cipher](#Restaurant-Cipher)
 
+<hr>
 
 # Caesar Redux
 
@@ -17,3 +18,5 @@
 ![Alt text](Images/Restaurant%20Cipher%202.png)
 
 [Answer](Codes/restaurantcipher.py)
+
+<br/><hr>
