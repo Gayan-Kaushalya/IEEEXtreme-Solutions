@@ -9,7 +9,7 @@
 
 [Answer](Codes/caesarredux.py)
 
-<br/>
+<br/><hr>
 
 # Restaurant Cipher
 
