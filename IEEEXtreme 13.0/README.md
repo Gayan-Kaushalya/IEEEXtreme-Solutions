@@ -10,6 +10,7 @@
 
 [Answer](Codes/avecaesar.py)
 
+<br/>
 
 # Xtreme Rappers
 
@@ -18,6 +19,7 @@
 
 [Answer](Codes/xtremerappers.py)
 
+<br/>
 
 # Infinite String
 
@@ -25,3 +27,5 @@
 ![Alt text](Images/Infinite%20String%202.png)
 
 [Answer](Codes/infinitestring.py)
+
+<br/>
