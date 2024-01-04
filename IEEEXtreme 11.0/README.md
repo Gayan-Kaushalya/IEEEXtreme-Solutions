@@ -9,6 +9,7 @@
 
 [Answer](Codes/blackgate.py)
 
+<br/>
 
 # Running Up Stairs
 
@@ -16,3 +17,5 @@
 ![Alt text](Images/Running%20Up%20Stairs%202.png)
 
 [Answer](Codes/stairs.py)
+
+<br/>

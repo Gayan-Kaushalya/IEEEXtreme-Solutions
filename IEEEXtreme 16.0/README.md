@@ -11,6 +11,7 @@
 
 [Answer](Codes/pizza.py)
 
+<br/>
 
 # Gaius Letters
 
@@ -18,6 +19,7 @@
 
 [Answer](Codes/gaius.py)
 
+<br/>
 
 # Scheduler
 
@@ -26,6 +28,7 @@
 
 [Answer](Codes/scheduler.py)
 
+<br/>
 
 # My Treat
 

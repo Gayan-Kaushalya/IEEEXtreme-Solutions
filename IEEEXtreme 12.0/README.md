@@ -6,3 +6,5 @@
 ![Alt text](Images/Magic%20Spell.png)
 
 [Answer](Codes/magicspell.py)
+
+<br/>

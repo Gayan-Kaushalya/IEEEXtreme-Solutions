@@ -10,6 +10,7 @@
 
 [Answer](Codes/mosaic_I.py)
 
+<br/>
 
 # Mosaic Decoration II
 
@@ -19,6 +20,7 @@
 
 [Answer](Codes/mosaic_II.py)
 
+<br/>
 
 # Hotel Wiring
 
@@ -26,3 +28,5 @@
 ![Alt text](Images/Hotel%20Wiring%202.png)
 
 [Answer](Codes/hotelwiring.py)
+
+<br/>
