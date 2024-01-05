@@ -1,6 +1,7 @@
 - [Mosaic Decoration I](#Mosaic-Decoration-I)
 - [Mosaic Decoration II](#Mosaic-Decoration-II)
 - [Hotel Wiring](#Hotel-Wiring)
+- [Coupon Codes](#Coupon-Codes)
 
 <hr>
 
@@ -29,5 +30,14 @@
 ![Alt text](Images/Hotel%20Wiring%202.png)
 
 [Answer](Codes/hotelwiring.py)
+
+<br/><hr>
+
+# Coupon Codes
+
+![Alt text](Images/Coupon%20Codes%201.png)
+![Alt text](Images/Coupon%20Codes%202.png)
+
+[Answer](Codes/couponcodes.py)
 
 <br/><hr>
