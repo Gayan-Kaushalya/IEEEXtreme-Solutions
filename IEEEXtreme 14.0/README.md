@@ -2,6 +2,7 @@
 - [Mosaic Decoration II](#Mosaic-Decoration-II)
 - [Hotel Wiring](#Hotel-Wiring)
 - [Coupon Codes](#Coupon-Codes)
+- [Crafting Wooden Tables](#Crafting-Wooden-Tables)
 
 <hr>
 
@@ -39,5 +40,14 @@
 ![Alt text](Images/Coupon%20Codes%202.png)
 
 [Answer](Codes/couponcodes.py)
+
+<br/><hr>
+
+# Crafting Wooden Tables
+
+![Alt text](Images/Crafting%20Wooden%20Tables%201.png)
+![Alt text](Images/Crafting%20Wooden%20Tables%202.png)
+
+[Answer](Codes/craftingwoodentables.py)
 
 <br/><hr>
