@@ -27,7 +27,7 @@
 ![Alt text](Images/Rumour%201.png)
 ![Alt text](Images/Rumour%202.png)
 
-[Answer](Codes/rumour.py)
+[Answer](Codes/rumour.py) <br>
 [Better answer](Codes/rumour2.py)
 
 <br/><hr>
