@@ -1,2 +1,2 @@
-n = input()
-print('KrpSgaUNEeloA'.find(n[ord(n[0])%5])+2)
+a=input()
+print('0mkesSraRNEtATo'.index(a[len(a)//2]))

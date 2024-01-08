@@ -12,4 +12,4 @@ The following problems should be given more attention. Their logics are bit hard
 
 <br>
 
-If you have answers which are not in this repository, feel free to reach me by my email [gayankumarasekara@gmail.com](mailto:gayankumarasekara@gmail.com)
+If you have solutions which are not in this repository or solutions which are better than the ones in this repository (Python solutions are much preferred), feel free to reach me by my email [gayankumarasekara@gmail.com](mailto:gayankumarasekara@gmail.com)

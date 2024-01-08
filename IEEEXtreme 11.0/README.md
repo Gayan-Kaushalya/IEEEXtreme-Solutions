@@ -28,5 +28,6 @@
 ![Alt text](Images/Rumour%202.png)
 
 [Answer](Codes/rumour.py)
+[Better answer](Codes/rumour2.py)
 
 <br/><hr>
