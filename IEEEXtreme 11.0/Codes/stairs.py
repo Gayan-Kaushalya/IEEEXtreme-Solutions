@@ -1,5 +1,5 @@
 '''
-This part had to be added to the code to pass the trst cases. 
+This part had to be added to the code to pass the test cases. 
 
 Otherwise it gives the following error:
     ValueError: Exceeds the limit (4300) for integer string conversion: value has 5432 digits.
