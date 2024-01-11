@@ -37,4 +37,6 @@
 ![Alt text](Images/Googolplex%201.png)
 ![Alt text](Images/Googolplex%202.png)
 
+[Answer](Codes/googolplex.py)
+
 <br/><hr>
