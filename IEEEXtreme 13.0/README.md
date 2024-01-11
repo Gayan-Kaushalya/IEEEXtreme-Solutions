@@ -1,6 +1,7 @@
 - [Ave Caesar!](#Ave-Caesar!)
 - [Xtreme Rappers](#Xtreme-Rappers)
 - [Infinite String](#Infinite-String)
+- [Googolplex](#Googolplex)
 
 <hr>
 
@@ -28,5 +29,12 @@
 ![Alt text](Images/Infinite%20String%202.png)
 
 [Answer](Codes/infinitestring.py)
+
+<br/><hr>
+
+# Googolplex
+
+![Alt text](Images/Googolplex%201.png)
+![Alt text](Images/Googolplex%202.png)
 
 <br/><hr>
