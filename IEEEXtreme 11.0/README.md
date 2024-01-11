@@ -1,6 +1,7 @@
 - [Blackgate Penitentiary](#Blackgate-Penitentiary)
 - [Running Up Stairs](#Running-Up-Stairs)
 - [Rumour](#Rumour)
+- [Fibonacci](#Fibonacci)
 
 <hr>
 
@@ -29,5 +30,14 @@
 
 [Answer](Codes/rumour.py) <br>
 [Better answer](Codes/rumour2.py)
+
+<br/><hr>
+
+# Fibonacci
+
+![Alt text](Images/Fibonacci%201.png)
+![Alt text](Images/Fibonacci%202.png)
+
+[Answer](Codes/fibonacci.py)
 
 <br/><hr>
