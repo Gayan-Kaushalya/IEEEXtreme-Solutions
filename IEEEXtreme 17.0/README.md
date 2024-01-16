@@ -1,5 +1,6 @@
 - [Caesar Redux](#Caesar-Redux)
 - [Restaurant Cipher](#Restaurant-Cipher)
+- [War Games](#War-Games)
 
 <hr>
 
