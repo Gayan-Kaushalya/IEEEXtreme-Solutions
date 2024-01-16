@@ -20,3 +20,12 @@
 [Answer](Codes/restaurantcipher.py)
 
 <br/><hr>
+
+# War Games
+
+![Alt text](Images/War%20Games%201.png)
+![Alt text](Images/War%20Games%202.png)
+
+[Answer](Codes/wargames.py)
+
+<br/><hr>
