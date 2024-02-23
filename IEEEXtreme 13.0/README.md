@@ -2,6 +2,7 @@
 - [Xtreme Rappers](#Xtreme-Rappers)
 - [Infinite String](#Infinite-String)
 - [Googolplex](#Googolplex)
+- [Monokeros](#Monokeros)
 
 <hr>
 
@@ -38,5 +39,15 @@
 ![Alt text](Images/Googolplex%202.png)
 
 [Answer](Codes/googolplex.py)
+
+<br/><hr>
+
+# Monokeros
+
+![Alt text](Images/Monokeros%201.png)
+![Alt text](Images/Monokeros%202.png)
+![Alt text](Images/Monokeros%203.png)
+
+[Answer](Codes/monokeros.py)
 
 <br/><hr>
