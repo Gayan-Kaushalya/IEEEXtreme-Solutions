@@ -2,6 +2,7 @@
 - [Running Up Stairs](#Running-Up-Stairs)
 - [Rumour](#Rumour)
 - [Fibonacci](#Fibonacci)
+- [BeetleBag](#BeetleBag)
 
 <hr>
 
@@ -39,5 +40,15 @@
 ![Alt text](Images/Fibonacci%202.png)
 
 [Answer](Codes/fibonacci.py)
+
+<br/><hr>
+
+# BeetleBag
+
+![Alt text](Images/BeetleBag%201.png)
+![Alt text](Images/BeetleBag%202.png)
+![Alt text](Images/BeetleBag%203.png)
+
+[Answer](Codes/beetlebag.py)
 
 <br/><hr>
