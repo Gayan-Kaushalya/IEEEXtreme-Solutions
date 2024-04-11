@@ -3,6 +3,7 @@
 - [Infinite String](#Infinite-String)
 - [Googolplex](#Googolplex)
 - [Monokeros](#Monokeros)
+- [Ranged Alfa Pool](#Ranged-Alfa-Pool)
 
 <hr>
 
@@ -49,5 +50,14 @@
 ![Alt text](Images/Monokeros%203.png)
 
 [Answer](Codes/monokeros.py)
+
+<br/><hr>
+
+# Ranged Alfa Pool
+
+![Alt text](Images/Ranged%20Alfa%20Pool%201.png)
+![Alt text](Images/Ranged%20Alfa%20Pool%202.png)
+
+[Answer](Codes/rangedalfapool.py)
 
 <br/><hr>
