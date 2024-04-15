@@ -3,6 +3,7 @@
 - [Rumour](#Rumour)
 - [Fibonacci](#Fibonacci)
 - [BeetleBag](#BeetleBag)
+- [Aeneas' cryptographic disc (4th c. B.C.)](#Aeneas-cryptographic-disc-4th-c-bc)
 
 <hr>
 
@@ -52,3 +53,11 @@
 [Answer](Codes/beetlebag.py)
 
 <br/><hr>
+
+# Aeneas' cryptographic disc (4th c. B.C.)
+
+![Alt text](Images/Aeneas'%20cryptographic%20disc%20(4th%20c.%20B.C.)%201.png)
+![Alt text](Images/Aeneas'%20cryptographic%20disc%20(4th%20c.%20B.C.)%202.png)
+![Alt text](Images/Aeneas'%20cryptographic%20disc%20(4th%20c.%20B.C.)%203.png)
+
+[Answer](Codes/cryptographicdisc.py)
