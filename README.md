@@ -13,6 +13,7 @@ The following problems should be given more attention. Their logics are bit hard
 - [Googolplex](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2013.0/Codes/googolplex.py)
 - [Monokeros](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2013.0/Codes/monokeros.py)
 - [Ranged Alfa Pool](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2013.0/Codes/rangedalfapool.py)
+- [Scheduler Redux](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2016.0/Codes/schedulerredux.py)
 
 <br>
 

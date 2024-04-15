@@ -2,6 +2,7 @@
 - [Gaius Letters](#Gaius-Letters)
 - [Scheduler](#Scheduler)
 - [My Treat](#My-Treat)
+- [Scheduler Redux](#Scheduler-Redux)
 
 <hr>
 
@@ -38,5 +39,14 @@
 ![Alt text](Images/My%20Treat%202.png)
 
 [Answer](Codes/mytreat.py)
+
+<br/><hr>
+
+# Scheduler Redux
+
+![Alt text](Images/Scheduler%20Redux%201.png)
+![Alt text](Images/Scheduler%20Redux%202.png)
+
+[Answer](Codes/schedulerredux.py)
 
 <br/><hr>
