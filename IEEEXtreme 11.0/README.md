@@ -4,6 +4,7 @@
 - [Fibonacci](#Fibonacci)
 - [BeetleBag](#BeetleBag)
 - [Aeneas' cryptographic disc (4th c. B.C.)](#Aeneas-cryptographic-disc-4th-c-bc)
+- [RecXor](#RecXor)
 
 <hr>
 
@@ -61,3 +62,14 @@
 ![Alt text](Images/Aeneas'%20cryptographic%20disc%20(4th%20c.%20B.C.)%203.png)
 
 [Answer](Codes/cryptographicdisc.py)
+
+<br/><hr>
+
+# RecXor
+
+![Alt text](Images/RecXor%201.png)
+![Alt text](Images/RecXor%202.png)
+
+[Answer](Codes/recxor.py)
+
+<br/><hr>
