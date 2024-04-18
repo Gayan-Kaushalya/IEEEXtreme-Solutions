@@ -3,6 +3,7 @@
 - [Hotel Wiring](#Hotel-Wiring)
 - [Coupon Codes](#Coupon-Codes)
 - [Crafting Wooden Tables](#Crafting-Wooden-Tables)
+- [Rotational Lights](#Rotational-Lights)
 
 <hr>
 
@@ -49,5 +50,16 @@
 ![Alt text](Images/Crafting%20Wooden%20Tables%202.png)
 
 [Answer](Codes/craftingwoodentables.py)
+
+<br/><hr>
+
+# Rotational Lights
+
+![Alt text](Images/Rotational%20Lights%201.png)
+![Alt text](Images/Rotational%20Lights%202.png)
+![Alt text](Images/Rotational%20Lights%203.png)
+![Alt text](Images/Rotational%20Lights%204.png)
+
+[Answer](Codes/rotationallights.py)
 
 <br/><hr>
