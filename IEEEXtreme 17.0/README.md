@@ -1,6 +1,7 @@
 - [Caesar Redux](#Caesar-Redux)
 - [Restaurant Cipher](#Restaurant-Cipher)
 - [War Games](#War-Games)
+- [Programmer's Poem](#Programmers-Poem)
 
 <hr>
 
@@ -28,5 +29,17 @@
 ![Alt text](Images/War%20Games%202.png)
 
 [Answer](Codes/wargames.py)
+
+<br/><hr>
+
+# Programmer's Poem
+
+![Alt text](Images/Programmer's%20Poem%201.png)
+![Alt text](Images/Programmer's%20Poem%202.png)
+![Alt text](Images/Programmer's%20Poem%203.png)
+![Alt text](Images/Programmer's%20Poem%204.png)
+![Alt text](Images/Programmer's%20Poem%205.png)
+
+[Answer](Codes/programmerpoem.py)
 
 <br/><hr>
