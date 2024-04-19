@@ -3,6 +3,7 @@
 - [Scheduler](#Scheduler)
 - [My Treat](#My-Treat)
 - [Scheduler Redux](#Scheduler-Redux)
+- [ASCII Dancer](#ASCII-Dancer)
 
 <hr>
 
@@ -48,5 +49,17 @@
 ![Alt text](Images/Scheduler%20Redux%202.png)
 
 [Answer](Codes/schedulerredux.py)
+
+<br/><hr>
+
+# ASCII Dancer
+
+![Alt text](Images/ASCII%20Dancer%201.png)
+![Alt text](Images/ASCII%20Dancer%202.png)
+![Alt text](Images/ASCII%20Dancer%203.png)
+![Alt text](Images/ASCII%20Dancer%204.png)
+![Alt text](Images/ASCII%20Dancer%205.png)
+
+[Answer](Codes/asciidancer.py)
 
 <br/><hr>
