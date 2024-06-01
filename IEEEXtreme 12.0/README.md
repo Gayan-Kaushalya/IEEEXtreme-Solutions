@@ -2,6 +2,7 @@
 - [Lemons](#Lemons)
 - [Troll Coder](#Troll-Coder)
 - [Bit Soccer](#Bit-Soccer)
+- [Barrett Reduction](#Barrett-Reduction)
 
 <hr>
 
@@ -37,5 +38,14 @@
 ![Alt text](Images/Bit%20Soccer%202.png)
 
 [Answer](Codes/bitsoccer.py)
+
+<br/><hr>
+
+# Barrett Reduction
+
+![Alt text](Images/Barrett%20Reduction%201.png)
+![Alt text](Images/Barrett%20Reduction%202.png)
+
+[Answer](Codes/barrettreduction.py)
 
 <br/><hr>
