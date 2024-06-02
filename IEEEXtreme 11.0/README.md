@@ -5,6 +5,7 @@
 - [BeetleBag](#BeetleBag)
 - [Aeneas' cryptographic disc (4th c. B.C.)](#Aeneas-cryptographic-disc-4th-c-bc)
 - [RecXor](#RecXor)
+- [Elementary](#Elementary)
 
 <hr>
 
@@ -71,5 +72,15 @@
 ![Alt text](Images/RecXor%202.png)
 
 [Answer](Codes/recxor.py)
+
+<br/><hr>
+
+# Elementary
+
+![Alt text](Images/Elementary%201.png)
+![Alt text](Images/Elementary%202.png)
+![Alt text](Images/Elementary%203.png)
+
+[Answer](Codes/elementary.py)
 
 <br/><hr>
