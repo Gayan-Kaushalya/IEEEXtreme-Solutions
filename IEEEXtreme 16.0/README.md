@@ -4,6 +4,7 @@
 - [My Treat](#My-Treat)
 - [Scheduler Redux](#Scheduler-Redux)
 - [ASCII Dancer](#ASCII-Dancer)
+- [What Language Am I Speaking?](#What-Language-Am-I-Speaking)
 
 <hr>
 
@@ -61,5 +62,16 @@
 ![Alt text](Images/ASCII%20Dancer%205.png)
 
 [Answer](Codes/asciidancer.py)
+
+<br/><hr>
+
+# What Language Am I Speaking?
+
+![Alt text](Images/What%20Language%20Am%20I%20Speaking%201.png)
+![Alt text](Images/What%20Language%20Am%20I%20Speaking%202.png)
+![Alt text](Images/What%20Language%20Am%20I%20Speaking%203.png)
+![Alt text](Images/What%20Language%20Am%20I%20Speaking%204.png)
+
+[Answer](Codes/language.py)
 
 <br/><hr>
