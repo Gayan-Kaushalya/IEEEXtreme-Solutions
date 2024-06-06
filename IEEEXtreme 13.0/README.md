@@ -4,6 +4,7 @@
 - [Googolplex](#Googolplex)
 - [Monokeros](#Monokeros)
 - [Ranged Alfa Pool](#Ranged-Alfa-Pool)
+- [Xranda and Tree](#Xranda-and-Tree)
 
 <hr>
 
@@ -59,5 +60,14 @@
 ![Alt text](Images/Ranged%20Alfa%20Pool%202.png)
 
 [Answer](Codes/rangedalfapool.py)
+
+<br/><hr>
+
+# Xranda and Tree
+
+![Alt text](Images/Xranda%20and%20Tree%201.png)
+![Alt text](Images/Xranda%20and%20Tree%202.png)
+
+[Answer](Codes/xranda.py)
 
 <br/><hr>
