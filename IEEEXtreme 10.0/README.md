@@ -1,5 +1,6 @@
 - [Dog Walking](#Dog-Walking)
 - [Ellipse Art](#Ellipse-Art)
+- [Memory Management](#Memory-Management)
 
 <hr>
 
@@ -19,5 +20,16 @@
 ![Alt text](Images/Ellipse%20Art%203.png)
 
 [Answer](Codes/ellipseart.py)
+
+<br/><hr>
+
+# Memory Management
+
+![Alt text](Images/Memory%20Management%201.png)
+![Alt text](Images/Memory%20Management%202.png)
+![Alt text](Images/Memory%20Management%203.png)
+![Alt text](Images/Memory%20Management%204.png)
+
+[Answer](Codes/memorymanagement.py)
 
 <br/><hr>
