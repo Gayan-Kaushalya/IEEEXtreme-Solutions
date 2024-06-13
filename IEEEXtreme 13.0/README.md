@@ -5,6 +5,7 @@
 - [Monokeros](#Monokeros)
 - [Ranged Alfa Pool](#Ranged-Alfa-Pool)
 - [Xranda and Tree](#Xranda-and-Tree)
+- [Reshuffle Teams](#Reshuffle-Teams)
 
 <hr>
 
@@ -69,5 +70,13 @@
 ![Alt text](Images/Xranda%20and%20Tree%202.png)
 
 [Answer](Codes/xranda.py)
+
+<br/><hr>
+
+# Reshuffle Teams
+
+![Alt text](Images/Reshuffle%20Teams.png)
+
+[Answer](Codes/reshuffleteams.py)
 
 <br/><hr>
