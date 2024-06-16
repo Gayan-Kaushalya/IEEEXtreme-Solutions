@@ -6,6 +6,7 @@
 - [Aeneas' cryptographic disc (4th c. B.C.)](#Aeneas-cryptographic-disc-4th-c-bc)
 - [RecXor](#RecXor)
 - [Elementary](#Elementary)
+- [Preparing for Xtreme 12.0](#Preparing-for-Xtreme-120)
 
 <hr>
 
@@ -84,3 +85,10 @@
 [Answer](Codes/elementary.py)
 
 <br/><hr>
+
+# Preparing for Xtreme 12.0
+
+![Alt text](Images/Preparing%20for%20Xtreme%2012.0%201.png)
+![Alt text](Images/Preparing%20for%20Xtreme%2012.0%202.png)
+
+[Answer](Codes/preparingforxtreme.py)
