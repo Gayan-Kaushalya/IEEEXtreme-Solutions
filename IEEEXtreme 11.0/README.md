@@ -7,6 +7,7 @@
 - [RecXor](#RecXor)
 - [Elementary](#Elementary)
 - [Preparing for Xtreme 12.0](#Preparing-for-Xtreme-120)
+- [Vangelis the Batbear and the Bubbles challenge](#Vangelis-the-Batbear-and-the-Bubbles-challenge)
 
 <hr>
 
@@ -92,3 +93,14 @@
 ![Alt text](Images/Preparing%20for%20Xtreme%2012.0%202.png)
 
 [Answer](Codes/preparingforxtreme.py)
+
+<br/><hr>
+
+# Vangelis the Batbear and the Bubbles challenge
+
+![Alt text](Images/Vangelis%20the%20Batbear%20and%20the%20Bubbles%20challenge%201.png)
+![Alt text](Images/Vangelis%20the%20Batbear%20and%20the%20Bubbles%20challenge%202.png)
+
+[Answer](Codes/vangelisandbubbles.py)
+
+<br/><hr>
