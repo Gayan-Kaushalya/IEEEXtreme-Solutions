@@ -8,6 +8,8 @@
 - [Elementary](#Elementary)
 - [Preparing for Xtreme 12.0](#Preparing-for-Xtreme-120)
 - [Vangelis the Batbear and the Bubbles challenge](#Vangelis-the-Batbear-and-the-Bubbles-challenge)
+- [Pyramid](#Pyramid)
+
 
 <hr>
 
@@ -102,5 +104,14 @@
 ![Alt text](Images/Vangelis%20the%20Batbear%20and%20the%20Bubbles%20challenge%202.png)
 
 [Answer](Codes/vangelisandbubbles.py)
+
+<br/><hr>
+
+# Pyramid
+
+![Alt text](Images/Pyramid%201.png)
+![Alt text](Images/Pyramid%202.png)
+
+[Answer](Codes/pyramid.py)
 
 <br/><hr>
