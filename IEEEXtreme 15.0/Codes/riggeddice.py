@@ -26,13 +26,11 @@ for g in range(int(input())):
                 
             if b == 6:
                 first_die_six_count += 1
-                
-                
+                       
         if alice_score != bob_score:
             alice_has_dice_a = not alice_has_dice_a
 
     if first_die_six_count > second_die_six_count:
-        print(1)
-        
+        print(1)   
     else:
         print(2)
