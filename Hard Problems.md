@@ -2,6 +2,7 @@ The following problems should be given more attention. Their logics are bit hard
 
 - [Dog Walking](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2010.0/Codes/dogwalking.py)
 - [Pyramid](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2011.0/Codes/pyramid.py)
+- [Lion Territory](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2011.0/Codes/lionterritory.py)
 - [Barrett Reduction](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2012.0/Codes/barrettreduction.py)
 - [Infinite String](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2013.0/Codes/infinitestring.py)
 - [Googolplex](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2013.0/Codes/googolplex.py)

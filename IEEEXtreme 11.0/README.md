@@ -9,6 +9,7 @@
 - [Preparing for Xtreme 12.0](#Preparing-for-Xtreme-120)
 - [Vangelis the Batbear and the Bubbles challenge](#Vangelis-the-Batbear-and-the-Bubbles-challenge)
 - [Pyramid](#Pyramid)
+- [Lion Territory](#Lion-Territory)
 
 
 <hr>
@@ -113,5 +114,13 @@
 ![Alt text](Images/Pyramid%202.png)
 
 [Answer](Codes/pyramid.py)
+
+<br/><hr>
+
+# Lion Territory
+
+![Alt text](Images/Lion%20Territory.png)
+
+[Answer](Codes/lionterritory.py)
 
 <br/><hr>
