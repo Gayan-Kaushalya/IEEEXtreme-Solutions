@@ -10,6 +10,7 @@
 - [Vangelis the Batbear and the Bubbles challenge](#Vangelis-the-Batbear-and-the-Bubbles-challenge)
 - [Pyramid](#Pyramid)
 - [Lion Territory](#Lion-Territory)
+- [Math Challenge](#Math-Challenge)
 
 
 <hr>
@@ -122,5 +123,13 @@
 ![Alt text](Images/Lion%20Territory.png)
 
 [Answer](Codes/lionterritory.py)
+
+<br/><hr>
+
+# Math Challenge
+
+![Alt text](Images/Math%20Challenge.png)
+
+[Answer](Codes/mathchallenge.py)
 
 <br/><hr>
