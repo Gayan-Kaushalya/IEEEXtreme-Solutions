@@ -11,6 +11,7 @@
 - [Pyramid](#Pyramid)
 - [Lion Territory](#Lion-Territory)
 - [Math Challenge](#Math-Challenge)
+- [Gotta Catch 'Em All](#Gotta-Catch-Em-All)
 
 
 <hr>
@@ -131,5 +132,14 @@
 ![Alt text](Images/Math%20Challenge.png)
 
 [Answer](Codes/mathchallenge.py)
+
+<br/><hr>
+
+# Gotta Catch 'Em All
+
+![Alt text](Images/Gotta%20Catch%20'Em%20All%201.png)
+![Alt text](Images/Gotta%20Catch%20'Em%20All%202.png)
+
+[Answer](Codes/gottacatchemall.py)
 
 <br/><hr>
