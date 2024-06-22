@@ -33,8 +33,6 @@ while h <= max_height:
             counts[j + p] += counts[j]
             counts[j + p] %= mod
             
-    print(counts)
-            
     total += counts[x]
     total %= mod
     
