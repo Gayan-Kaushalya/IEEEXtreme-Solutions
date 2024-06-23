@@ -12,6 +12,7 @@
 - [Lion Territory](#Lion-Territory)
 - [Math Challenge](#Math-Challenge)
 - [Gotta Catch 'Em All](#Gotta-Catch-Em-All)
+- [Octopuses with Watches](#Octopuses-with-Watches)
 
 
 <hr>
@@ -141,5 +142,14 @@
 ![Alt text](Images/Gotta%20Catch%20'Em%20All%202.png)
 
 [Answer](Codes/gottacatchemall.py)
+
+<br/><hr>
+
+# Octopuses with Watches
+
+![Alt text](Images/Octopuses%20with%20Watches%201.png)
+![Alt text](Images/Octopuses%20with%20Watches%202.png)
+
+[Answer](Codes/octopus.py)
 
 <br/><hr>
