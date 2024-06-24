@@ -9,6 +9,7 @@ The following problems should be given more attention. Their logics are bit hard
 - [Math Challenge](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2011.0/Codes/mathchallenge.py)
 - [Gotta Catch 'Em All](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2011.0/Codes/gottacatchemall.py)
 - [Octopuses with Watches](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2011.0/Codes/octopus.py)
+- [Quipu Function](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2011.0/Codes/quipufunction.py)
 
 ## IEEEXtreme 12.0
 - [Barrett Reduction](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2012.0/Codes/barrettreduction.py)

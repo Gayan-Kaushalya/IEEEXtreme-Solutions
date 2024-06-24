@@ -13,6 +13,7 @@
 - [Math Challenge](#Math-Challenge)
 - [Gotta Catch 'Em All](#Gotta-Catch-Em-All)
 - [Octopuses with Watches](#Octopuses-with-Watches)
+- [Quipu Function](#Quipu-Function)
 
 
 <hr>
@@ -151,5 +152,14 @@
 ![Alt text](Images/Octopuses%20with%20Watches%202.png)
 
 [Answer](Codes/octopus.py)
+
+<br/><hr>
+
+# Quipu Function
+
+![Alt text](Images/Quipu%20Function%201.png)
+![Alt text](Images/Quipu%20Function%202.png)
+
+[Answer](Codes/quipufunction.py)
 
 <br/><hr>
