@@ -14,6 +14,7 @@
 - [Gotta Catch 'Em All](#Gotta-Catch-Em-All)
 - [Octopuses with Watches](#Octopuses-with-Watches)
 - [Quipu Function](#Quipu-Function)
+- [Mister Counter](#Mister-Counter)
 
 
 <hr>
@@ -161,5 +162,14 @@
 ![Alt text](Images/Quipu%20Function%202.png)
 
 [Answer](Codes/quipufunction.py)
+
+<br/><hr>
+
+# Mister Counter
+
+![Alt text](Images/Mister%20Counter%201.png)
+![Alt text](Images/Mister%20Counter%202.png)
+
+[Answer](Codes/mistercounter.py)
 
 <br/><hr>
