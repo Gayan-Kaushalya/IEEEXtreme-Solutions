@@ -4,6 +4,7 @@
 - [Coupon Codes](#Coupon-Codes)
 - [Crafting Wooden Tables](#Crafting-Wooden-Tables)
 - [Rotational Lights](#Rotational-Lights)
+- [Furin Back](#Furin-Back)
 
 <hr>
 
@@ -61,5 +62,16 @@
 ![Alt text](Images/Rotational%20Lights%204.png)
 
 [Answer](Codes/rotationallights.py)
+
+<br/><hr>
+
+# Furin Back
+
+![Alt text](Images/Furin%20Back%201.png)
+![Alt text](Images/Furin%20Back%202.png)
+![Alt text](Images/Furin%20Back%203.png)
+![Alt text](Images/Furin%20Back%204.png)
+
+[Answer](Codes/furinback.py)
 
 <br/><hr>

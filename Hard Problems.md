@@ -26,6 +26,7 @@ The following problems should be given more attention. Their logics are bit hard
 ## IEEEXtreme 14.0
 - [Crafting Wooden Tables](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2014.0/Codes/craftingwoodentables.py)
 - [Rotaional Lights](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2014.0/Codes/rotationallights.py)
+- [Furin Back](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2014.0/Codes/furinback.py)
 
 ## IEEEXtreme 16.0
 - [Scheduler Redux](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2016.0/Codes/schedulerredux.py)
