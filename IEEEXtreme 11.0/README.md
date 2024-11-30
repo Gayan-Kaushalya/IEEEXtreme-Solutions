@@ -15,6 +15,7 @@
 - [Octopuses with Watches](#Octopuses-with-Watches)
 - [Quipu Function](#Quipu-Function)
 - [Mister Counter](#Mister-Counter)
+- [Odd Cycle Check](#Odd-Cycle-Check)
 
 
 <hr>
@@ -171,5 +172,18 @@
 ![Alt text](Images/Mister%20Counter%202.png)
 
 [Answer](Codes/mistercounter.py)
+
+<br/><hr>
+
+# Odd Cycle Check
+
+![Alt text](Images/Odd%20Cycle%20Check%201.png)
+![Alt text](Images/Odd%20Cycle%20Check%202.png)
+![Alt text](Images/Odd%20Cycle%20Check%203.png)
+![Alt text](Images/Odd%20Cycle%20Check%204.png)
+![Alt text](Images/Odd%20Cycle%20Check%205.png)
+![Alt text](Images/Odd%20Cycle%20Check%206.png)
+
+[Answer](Codes/oddcyclecheck.py)
 
 <br/><hr>
