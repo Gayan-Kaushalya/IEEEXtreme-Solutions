@@ -12,6 +12,7 @@ The following problems should be given more attention. Their logics are bit hard
 - [Quipu Function](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2011.0/Codes/quipufunction.py)
 - [Mister Counter](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2011.0/Codes/mistercounter.py)
 - [Odd Cycle Check](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2011.0/Codes/oddcyclecheck.py)
+- [The Fast and the Curious](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2011.0/Codes/fastandcurious.py)
 
 ## IEEEXtreme 12.0
 - [Barrett Reduction](https://github.com/Gayan-Kaushalya/IEEEXtreme-Solutions/blob/main/IEEEXtreme%2012.0/Codes/barrettreduction.py)

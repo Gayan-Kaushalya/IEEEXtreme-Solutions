@@ -16,6 +16,7 @@
 - [Quipu Function](#Quipu-Function)
 - [Mister Counter](#Mister-Counter)
 - [Odd Cycle Check](#Odd-Cycle-Check)
+- [The Fast and the Curious](#The-Fast-and-the-Curious)
 
 
 <hr>
@@ -185,5 +186,14 @@
 ![Alt text](Images/Odd%20Cycle%20Check%206.png)
 
 [Answer](Codes/oddcyclecheck.py)
+
+<br/><hr>
+
+# The Fast and the Curious
+
+![Alt text](Images/The%20Fast%20and%20the%20Curious%201.png)
+![Alt text](Images/The%20Fast%20and%20the%20Curious%202.png)
+
+[Answer](Codes/fastandcurious.py)
 
 <br/><hr>
