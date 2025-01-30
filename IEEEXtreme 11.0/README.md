@@ -17,6 +17,7 @@
 - [Mister Counter](#Mister-Counter)
 - [Odd Cycle Check](#Odd-Cycle-Check)
 - [The Fast and the Curious](#The-Fast-and-the-Curious)
+- [Maximum Sum](#Maximum-Sum)
 
 
 <hr>
@@ -195,5 +196,14 @@
 ![Alt text](Images/The%20Fast%20and%20the%20Curious%202.png)
 
 [Answer](Codes/fastandcurious.py)
+
+<br/><hr>
+
+# Maximum Sum
+
+![Alt text](Images/Maximum%20Sum%201.png)
+![Alt text](Images/Maximum%20Sum%202.png)
+
+[Answer](Codes/maximumsum.py)
 
 <br/><hr>
