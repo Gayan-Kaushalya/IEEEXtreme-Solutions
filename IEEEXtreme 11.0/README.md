@@ -18,6 +18,7 @@
 - [Odd Cycle Check](#Odd-Cycle-Check)
 - [The Fast and the Curious](#The-Fast-and-the-Curious)
 - [Maximum Sum](#Maximum-Sum)
+- [Jarawi and The Interview](#Jarawi-and-The-Interview)
 
 
 <hr>
@@ -205,5 +206,16 @@
 ![Alt text](Images/Maximum%20Sum%202.png)
 
 [Answer](Codes/maximumsum.py)
+
+<br/><hr>
+
+# Jarawi and The Interview
+
+![Alt text](Images/Jarawi%20and%20The%20Interview%201.png)
+![Alt text](Images/Jarawi%20and%20The%20Interview%202.png)
+
+![alt text](image.png)
+
+[Answer](Codes/jarawi.py)
 
 <br/><hr>
