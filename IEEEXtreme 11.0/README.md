@@ -214,8 +214,6 @@
 ![Alt text](Images/Jarawi%20and%20The%20Interview%201.png)
 ![Alt text](Images/Jarawi%20and%20The%20Interview%202.png)
 
-![alt text](image.png)
-
 [Answer](Codes/jarawi.py)
 
 <br/><hr>
