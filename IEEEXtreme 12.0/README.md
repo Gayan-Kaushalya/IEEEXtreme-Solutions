@@ -4,6 +4,7 @@
 - [Bit Soccer](#Bit-Soccer)
 - [Barrett Reduction](#Barrett-Reduction)
 - [Troll Coder - Escape](#Troll-Coder---Escape)
+- [Bear Sums](#Bear-Sums)
 
 <hr>
 
@@ -66,5 +67,15 @@
 ![Alt text](Images/Troll%20Coder%20-%20Escape%202.png)
 
 [Answer](Codes/escape.py)
+
+<br/><hr>
+
+# Bear Sums
+
+![Alt text](Images/Bear%20Sums%201.png)
+![Alt text](Images/Bear%20Sums%202.png)
+![Alt text](Images/Bear%20Sums%203.png)
+
+[Answer](Codes/bearsums.py)
 
 <br/><hr>
