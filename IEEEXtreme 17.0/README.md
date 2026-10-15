@@ -43,3 +43,11 @@
 [Answer](Codes/programmerpoem.py)
 
 <br/><hr>
+
+# Happy Numbers
+
+![Alt text](Images/Happy%20Numbers.png)
+
+[Answer](Codes/happynumbers.py)
+
+<br/><hr>
