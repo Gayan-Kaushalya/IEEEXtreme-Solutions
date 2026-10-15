@@ -34,5 +34,8 @@ The following problems should be given more attention. Their logics are bit hard
 ## IEEEXtreme 16.0
 - [Scheduler Redux](IEEEXtreme%2016.0/Codes/schedulerredux.py)
 
-## IEEEXtreme 16.0
+## IEEEXtreme 17.0
 - [Happy Numbers](IEEEXtreme%2017.0/Codes/happynumbers.py)
+
+## IEEEXtreme 19.0
+- [Shailesh's Triplet](IEEEXtreme%2019.0/Codes/shailesh.py)
