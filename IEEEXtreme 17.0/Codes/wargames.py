@@ -22,7 +22,7 @@ for x in range(int(input())):
             player_2.append(card_2)
             
         count += 1
-            
+
     else:
         if len(player_1) == 0:
             print("player 2")
