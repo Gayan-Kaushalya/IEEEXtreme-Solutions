@@ -2,6 +2,7 @@
 - [Restaurant Cipher](#Restaurant-Cipher)
 - [War Games](#War-Games)
 - [Programmer's Poem](#Programmers-Poem)
+- [Happy Numbers](#Happy-Numbers)
 
 <hr>
 
