@@ -3,6 +3,7 @@
 - [War Games](#War-Games)
 - [Programmer's Poem](#Programmers-Poem)
 - [Happy Numbers](#Happy-Numbers)
+- [Dalvik](#Dalvik)
 
 <hr>
 
@@ -50,5 +51,15 @@
 ![Alt text](Images/Happy%20Numbers.png)
 
 [Answer](Codes/happynumbers.py)
+
+<br/><hr>
+
+# Dalvik
+
+![Alt text](Images/Dalvik%201.png)
+![Alt text](Images/Dalvik%202.png)
+![Alt text](Images/Dalvik%203.png)
+
+[Answer](Codes/dalvik.py)
 
 <br/><hr>
